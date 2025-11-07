@@ -5,8 +5,7 @@ export default function tailwindcssPage() {
         {/* Header Section */}
         <div className="text-center mb-8 sm:mb-10 lg:mb-12">
           <h2 className="font-bold text-xl sm:text-2xl lg:text-3xl text-gray-800 leading-tight">
-            Tailwind's layout utilities — specifically display, width, and
-            height.
+            Tailwind layout utilities — specifically display, width, and height.
           </h2>
         </div>
 
