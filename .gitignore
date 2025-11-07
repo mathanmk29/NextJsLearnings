@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
+=======
+
+# git
+/node_modules/
+.next/
+.env
+.env.local
+*.log
+>>>>>>> 0427ce153fec244d01c73c60e33b0c314b63a666
